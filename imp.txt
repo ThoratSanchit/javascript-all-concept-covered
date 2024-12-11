@@ -1,0 +1,56 @@
+Preface
+About the Book: Contains 200 important JavaScript interview questions.
+About the Author: Happy Rawat, with around 15 years of experience in software development, helps candidates clear technical interviews in tech companies.
+Contents Overview
+Fundamentals:
+
+Basics & Fundamentals
+Variables & Datatypes
+Operators & Conditions
+Arrays
+Loops
+Functions
+Strings
+DOM
+Error Handling
+Objects
+Advanced:
+11. Events
+12. Closures
+13. Asynchronous - Basics
+14. Asynchronous - Promises
+15. Asynchronous - Async Await
+16. Browser APIs & Web Storage
+17. Classes & Constructors
+18. ECMAScript & Modules
+19. Security & Performance
+
+Scenario & Coding (50 Questions):
+20. Tricky Short Questions
+21. Feature Development
+22. Coding Questions
+
+Sample Questions from Chapter 1: Basics
+Q1: What is JavaScript? What is the role of the JavaScript engine?
+Q2: What are client-side and server-side?
+Q3: What are variables? What is the difference between var, let, and const?
+Q4: What are some important string operations in JS?
+Q5: What is the DOM? What is the difference between HTML and DOM?
+Q6: What are selectors in JS?
+Q7: What is the difference between getElementById, getElementsByClassName, and getElementsByTagName?
+Q8: What are data types in JS?
+Q9: What are operators? What are the types of operators in JS?
+Q10: What are the types of conditions statements in JS?
+Q11: What is a loop? What are the types of loops in JS?
+Q12: What are functions in JS? What are the types of functions?
+Q13: What are arrow functions in JS? What is their use?
+Q14: What are arrays in JS? How to get, add, & remove elements from arrays?
+Q15: What are objects in JS?
+Q16: What is scope in JavaScript?
+Q17: What is hoisting in JavaScript?
+Q18: What is error handling in JS?
+Reading the Full Document
+To read the full document:
+
+Continue Extracting Content: I can help by extracting and summarizing content from the entire document section by section.
+Use PDF Reader: You can open the PDF file in a PDF reader and read it directly.

@@ -1,0 +1,19 @@
+Before:--आधी
+After:- नंतर
+
+Q)Difference between while and do while loop?
+ while:-- 1)condition checked before execution.
+          2) If condition is false it not execute.
+
+ do while:-- 1) condition checked After execution.
+             2) It execute at least onece even condition is false ither true.
+
+
+
+Q)Difference between for..of and for..in?
+   for..of:--   1) Usage: Loop through iterable objects (arrays, strings, etc.)
+                2)Returns Values: Returns values of the iterable.
+
+   for..in--- 1) Usage: Loop through the enumerable properties of an object.
+               2) Returns Keys: Returns keys (property names) of the object.
+               
