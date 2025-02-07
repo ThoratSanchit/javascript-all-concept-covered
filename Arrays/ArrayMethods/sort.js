@@ -3,9 +3,9 @@ The default sort order is according to string Unicode code points.`
 // it modify the original array
 
 
-let arr=['a','g','f','t','u']
+let arr=['a','g','z','t','u']
 let d=arr.sort();
-console.log(d,arr)
+console.log(arr)
 
 let num=[100,2,3,444,55,66]
 let sortNum=num.sort((a,b)=>a-b)
